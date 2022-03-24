@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = ZBarCam Demo
+title = Mobile App 001
 
 # (str) Package name
-package.name = zbarcamdemo
+package.name = mobileapp001
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = com.github.andremiras
